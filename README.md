@@ -1,4 +1,4 @@
-# Android_range_of_dinner
+# Android_range_of_dinner_APP
 
 目的:由於現代人每天不知道要吃什麼,所以幫忙推薦這附近有什麼好吃的。
 
